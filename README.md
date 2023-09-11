@@ -1,6 +1,6 @@
 # ChatCSV
 
-# A LLM powered app that can take any csv file as input and provide the queries output.
+* A LLM powered app that can take any csv file as input and provide the queries output.
 
 # To run this app :
   * clone this repo
